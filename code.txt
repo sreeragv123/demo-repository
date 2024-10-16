@@ -1,1 +1,1 @@
-This is git repository version 1
+This is local repository version 2
